@@ -1,2 +1,4 @@
 ---
-# defaults file for atom
+atom_packagename: atom
+atom_package_url: https://atom.io/download/deb
+
